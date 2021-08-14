@@ -1,2 +1,2 @@
 # Gin-first-study
-Gin框架初识
+Gin框架搞一搞
